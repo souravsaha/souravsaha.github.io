@@ -126,7 +126,9 @@ within and across Ranking Models", Sen et al., SIGIR 2020.
 
 [13] "Diagnosing BERT with Retrieval Heuristics", Camara and Hauff, ECIR 2020.
 
+[14] "Explainable Information Retrieval: A Survey", Anand et al., arXiv:2211.02405.
 
+[15] "Explainability of Text Processing and Retrieval Methods: A Critical Survey", Saha et al., arXiv:2212.07126.
 
 
 
