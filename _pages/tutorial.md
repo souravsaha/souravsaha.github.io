@@ -83,8 +83,8 @@ This half-day tutorial is divided into two parts of 90 minutes each -- In the fi
  <br>    
 
  5. **[Posthoc approaches in ExIR](https://shorturl.at/pyBM1)** by [Procheta Sen](https://procheta.github.io/sprocheta/).
- 6. **[Axiomatic IR for Interpretability](https://shorturl.at/hzKR8)** by [Sourav Saha](https://souravsaha.github.io).
- 7. **[Outlook and Conclusion](https://shorturl.at/biK03)** by [Avishek Anand](https://www.avishekanand.com).
+ 6. **[Axiomatic IR for Interpretability](https://shorturl.at/hsY18)** by [Sourav Saha](https://souravsaha.github.io).
+ 7. **[Outlook and Conclusion](https://shorturl.at/BLN12)** by [Avishek Anand](https://www.avishekanand.com).
 
 <br>
 
