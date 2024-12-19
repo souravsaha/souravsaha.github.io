@@ -32,7 +32,7 @@ author_profile: true
   <a href="https://youtu.be/UkFjH6AG3d0">[Demo]</a> &nbsp;
   <a href="https://github.com/souravsaha/I-REX">[Code]</a> &nbsp; <br>
   Dwaipayan Roy, **Sourav Saha**, Mandar Mitra, Bihan Sen, Debasis Ganguly <br>
-  <em>In International Conference on Information and Knowledge Management, CIKM 2019. pp:2949--2952.
+  <em>In International Conference on Information and Knowledge Management, CIKM 2019.
 
 ## Unpublished Manuscript(s)
 
