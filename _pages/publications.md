@@ -3,7 +3,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Tutorial(s)
+## Tutorials
+* **Explainable Information Retrieval**
+  <a href="https://souravsaha.github.io/tutorial/">[Upcoming!]</a> &nbsp; <br>
+ Avishek Anand, **Sourav Saha**, Venktesh V <br>
+ <em> In European Conference on Information Retrieval, ECIR 2025. </em>
+
 * **Explainable Information Retrieval** <br>
  Avishek Anand, Procheta Sen, **Sourav Saha**, Manisha Verma, Mandar Mitra <br>
  <em> In International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2023. </em>
