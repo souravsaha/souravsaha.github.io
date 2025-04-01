@@ -16,7 +16,7 @@ author_profile: true
 ## Conferences
 
 * **Combining and Evaluating Query Performance Predictors: A Reproducibility Study.**
-<a href="https://souravsaha.github.io#publications">[Arxiv: Coming soon!]</a> &nbsp;
+<a href="https://arxiv.org/pdf/2503.24251">[Arxiv]</a> &nbsp;
 <a href="https://github.com/souravsaha/qpp-comb" target="_blank">[Code]</a> &nbsp; <br>
  **Sourav Saha**, Suchana Dutta, Dwaipayan Roy, Mandar Mitra, Derek Greene <br>
  <em>In European Conference on Information Retrieval, ECIR 2025.
