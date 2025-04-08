@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## Tutorials
 * **Explainable Information Retrieval**
-  <a href="https://souravsaha.github.io/tutorial/">[Upcoming!]</a> &nbsp; <br>
+  <a href="https://elixir-research-group.github.io/ECIR25-ExplainableIR/">[Tutorial]</a> &nbsp; <br>
  Avishek Anand, **Sourav Saha**, Venktesh V <br>
  <em> In European Conference on Information Retrieval, ECIR 2025. </em>
 
@@ -14,6 +14,13 @@ author_profile: true
  <em> In International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2023. </em>
 
 ## Conferences
+
+* **ir_explain: a Python Library of Explainable IR Methods.**
+<a href="https://souravsaha.github.io/">[Coming Soon]</a> &nbsp;
+<a href="https://github.com/souravsaha/ir_explain" target="_blank">[Code]</a> &nbsp; <br>
+ **Sourav Saha**, Harsh Agarwal, Venktesh V, Avishek Anand, Swastik Mohanty, Debapriyo Majumdar and Mandar Mitra <br>
+ <em>In International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2025. </em>
+
 
 * **Combining and Evaluating Query Performance Predictors: A Reproducibility Study.**
 <a href="https://arxiv.org/pdf/2503.24251">[Arxiv]</a> &nbsp;
