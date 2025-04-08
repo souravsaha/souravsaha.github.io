@@ -19,7 +19,7 @@ author_profile: true
 <a href="https://souravsaha.github.io/">[Coming Soon]</a> &nbsp;
 <a href="https://github.com/souravsaha/ir_explain" target="_blank">[Code]</a> &nbsp; <br>
  **Sourav Saha**, Harsh Agarwal, Venktesh V, Avishek Anand, Swastik Mohanty, Debapriyo Majumdar and Mandar Mitra <br>
- <em>In International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2025. </em>
+ <em> In International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2025. (To appear) </em>
 
 
 * **Combining and Evaluating Query Performance Predictors: A Reproducibility Study.**
