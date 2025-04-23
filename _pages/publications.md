@@ -8,12 +8,10 @@ papertitle{
     font-family: Tahoma;
     color:#036887; 
     font-weight:bold;
-    font-size:12pt;
 }
 conference{
     font-family: Tahoma;
     color:#96281B;
-    font-size:12pt;
 }
 </style>
 
@@ -65,5 +63,5 @@ In International ACM SIGIR Conference on Research and Development in Information
 ## Unpublished Manuscript(s)
 
 * <papertitle> LiCQA: A Lightweight Complex Question Answering System </papertitle> <br>
- **Sourav Saha**, Dwaipayan Roy, Mandar Mitra   <br>
+ **Sourav Saha**, Dwaipayan Roy, Mandar Mitra <br>
 <a href="https://souravsaha.github.io#publications" target="_blank">[Coming soon!]</a> &nbsp;
