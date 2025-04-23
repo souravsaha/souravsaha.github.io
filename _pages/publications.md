@@ -3,8 +3,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<style>
+papertitle{
+    color:#036887; 
+    font-weight:bold;
+}
+</style>
+
+
 ## Tutorials
-* **Explainable Information Retrieval**
+* **<papertitle> Explainable Information Retrieval </papertitle>**
   <a href="https://elixir-research-group.github.io/ECIR25-ExplainableIR/">[Tutorial]</a> &nbsp; <br>
  Avishek Anand, **Sourav Saha**, Venktesh V <br>
  <em> In European Conference on Information Retrieval, ECIR 2025. </em>
