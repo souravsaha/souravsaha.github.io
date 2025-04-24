@@ -19,7 +19,7 @@ section {
 </style>
 
 
-## <section> Tutorials </section>
+##  Tutorials 
 * <papertitle> Explainable Information Retrieval </papertitle>
   <a href="https://elixir-research-group.github.io/ECIR25-ExplainableIR/">[Tutorial]</a> &nbsp; <br>
  Avishek Anand, **Sourav Saha**, Venktesh V <br>
@@ -29,7 +29,7 @@ section {
  Avishek Anand, Procheta Sen, **Sourav Saha**, Manisha Verma, Mandar Mitra <br>
  In International ACM SIGIR Conference on Research and Development in Information Retrieval, <conference>SIGIR 2023</conference>. 
 
-## <section> Conferences </section>
+## Conferences
 
 * <papertitle> ir_explain: a Python Library of Explainable IR Methods </papertitle>
 <a href="https://souravsaha.github.io/">[Coming Soon]</a> &nbsp;
@@ -63,7 +63,7 @@ In International ACM SIGIR Conference on Research and Development in Information
   Dwaipayan Roy, **Sourav Saha**, Mandar Mitra, Bihan Sen, Debasis Ganguly <br>
   In International Conference on Information and Knowledge Management, <conference> CIKM 2019 </conference>.
 
-## <section> Unpublished Manuscript(s) </section>
+## Unpublished Manuscript(s) 
 
 * <papertitle> LiCQA: A Lightweight Complex Question Answering System </papertitle> <br>
  **Sourav Saha**, Dwaipayan Roy, Mandar Mitra <br>
