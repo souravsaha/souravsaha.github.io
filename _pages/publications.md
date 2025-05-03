@@ -19,7 +19,7 @@ section {
 
 
 ##  Tutorials 
-* <papertitle> Explainable Information Retrieval </papertitle> <a href="https://elixir-research-group.github.io/ECIR25-ExplainableIR/">[Tutorial]</a> &nbsp; <br>
+* <papertitle> Explainable Information Retrieval </papertitle> <a href="https://elixir-research-group.github.io/ECIR25-ExplainableIR/">[Invited Tutorial]</a> &nbsp; <br>
  Avishek Anand, **Sourav Saha**, Venktesh V <br>
  In European Conference on Information Retrieval, <conference>ECIR 2025</conference>. 
 
