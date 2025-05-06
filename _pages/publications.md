@@ -19,7 +19,7 @@ section {
 
 
 ##  Tutorials 
-* <papertitle> Explainable Information Retrieval </papertitle> <a href="https://elixir-research-group.github.io/ECIR25-ExplainableIR/">[Invited Tutorial]</a> &nbsp; <br>
+* <papertitle> Explainable Information Retrieval (Invited) </papertitle> <a href="https://elixir-research-group.github.io/ECIR25-ExplainableIR/">[Tutorial]</a> &nbsp; <a href="https://www.dropbox.com/scl/fi/174jxvv9yic0nzr6wqhsc/PART-III-Attributions-Exir-2025.pdf?rlkey=84fp7xqvgmdljqvt422gfywvg&st=39s1k5v5&dl=0">[RAG Attributions and Evaluations]</a> &nbsp; <br> 
  Avishek Anand, **Sourav Saha**, Venktesh V <br>
  In European Conference on Information Retrieval, <conference>ECIR 2025</conference>. 
 
