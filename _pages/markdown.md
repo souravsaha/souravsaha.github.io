@@ -7,6 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 Interesting Links and Materials:
+* A new initiative by ICTS to launch Maths Circle in India — explore the Kolkata chapter at this [link](https://www.icts.res.in/maths-circle-kolkata)
 * Excellent set of lecture [notes](http://jeffe.cs.illinois.edu/teaching/algorithms/) on Algorithms
 * Lecture [slides](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/) on Algorithms 
 * Arnab Chakraborty [homepage](https://www.isical.ac.in/~arnabc/)
