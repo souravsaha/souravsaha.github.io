@@ -27,6 +27,12 @@ section {
  Avishek Anand, Procheta Sen, **Sourav Saha**, Manisha Verma, Mandar Mitra <br>
  In International ACM SIGIR Conference on Research and Development in Information Retrieval, <conference>SIGIR 2023</conference>. 
 
+## Under Review
+
+* <papertitle> Explainability of Text Processing and Retrieval Methods: A Survey </papertitle>
+<a href="https://arxiv.org/abs/2212.07126">[Arxiv]</a> &nbsp; <br>
+ **Sourav Saha**, Debapriyo Majumdar, and Mandar Mitra <br>
+
 ## Conferences
 
 * <papertitle> ir_explain: a Python Library of Explainable IR Methods </papertitle>
