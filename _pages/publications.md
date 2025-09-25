@@ -31,7 +31,7 @@ section {
 
 * <papertitle> Explainability of Text Processing and Retrieval Methods: A Survey </papertitle>
 <a href="https://arxiv.org/abs/2212.07126">[Arxiv]</a> &nbsp; <br>
- **Sourav Saha**, Debapriyo Majumdar, and Mandar Mitra <br>
+ **Sourav Saha**, Debapriyo Majumdar, Mandar Mitra <br>
 
 ## Conferences
 
