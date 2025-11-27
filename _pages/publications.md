@@ -36,10 +36,10 @@ section {
 ## Conferences
 
 * <papertitle> ir_explain: a Python Library of Explainable IR Methods </papertitle>
-<a href="https://souravsaha.github.io/">[Coming Soon]</a> &nbsp;
+<a href="https://dl.acm.org/doi/10.1145/3726302.3730343">[Paper]</a> &nbsp;
 <a href="https://github.com/souravsaha/ir_explain" target="_blank">[Code]</a> &nbsp; <br>
  **Sourav Saha**, Harsh Agarwal, Venktesh V, Avishek Anand, Swastik Mohanty, Debapriyo Majumdar and Mandar Mitra <br>
-In International ACM SIGIR Conference on Research and Development in Information Retrieval, <conference>SIGIR 2025</conference>. (To appear)
+In International ACM SIGIR Conference on Research and Development in Information Retrieval, <conference>SIGIR 2025</conference>.
 
 
 * <papertitle> Combining and Evaluating Query Performance Predictors: A Reproducibility Study </papertitle>
