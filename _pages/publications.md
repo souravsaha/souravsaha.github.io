@@ -36,7 +36,7 @@ section {
 ## Conferences
 
 * <papertitle> One Word is Enough: Minimal Adversarial Perturbations for Neural Text Ranking </papertitle>
-<a href="https://souravsaha.github.io/publications/">[Coming Soon]</a> &nbsp;<br>
+<a href="https://arxiv.org/abs/2601.20283">[Arxiv]</a> &nbsp;<br>
  Tanmay Karmakar, **Sourav Saha**, Debapriyo Majumdar and Surjyanee Halder <br>
 In European Conference on Information Retrieval, <conference>ECIR 2026 (To appear)</conference>.
 
