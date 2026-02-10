@@ -27,11 +27,12 @@ section {
  Avishek Anand, Procheta Sen, **Sourav Saha**, Manisha Verma, Mandar Mitra <br>
  In International ACM SIGIR Conference on Research and Development in Information Retrieval, <conference>SIGIR 2023</conference>. 
 
-## Under Review
+## Journal(s)
 
 * <papertitle> Explainability of Text Processing and Retrieval Methods: A Survey </papertitle>
-<a href="https://arxiv.org/abs/2212.07126">[Arxiv]</a> &nbsp; <br>
+<a href="https://arxiv.org/abs/2212.07126">[Arxiv]</a> &nbsp; <br> 
  **Sourav Saha**, Debapriyo Majumdar, Mandar Mitra <br>
+ <conference>ACM Computing Surveys (ACM CSUR) [Accepted]</conference>
 
 ## Conferences
 
