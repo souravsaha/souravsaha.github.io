@@ -78,4 +78,4 @@ In International ACM SIGIR Conference on Research and Development in Information
 
 * <papertitle> LiCQA: A Lightweight Complex Question Answering System </papertitle> 
  **Sourav Saha**, Dwaipayan Roy, Mandar Mitra <br>
-<a href="https://souravsaha.github.io#publications" target="_blank">[Coming soon!]</a> &nbsp;
+<a href="https://arxiv.org/abs/2602.22182">[Paper]</a> &nbsp;
