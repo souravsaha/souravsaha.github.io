@@ -30,16 +30,19 @@ section {
 ## Journal(s)
 
 * <papertitle> Explainability of Text Processing and Retrieval Methods: A Survey </papertitle>
-<a href="https://arxiv.org/abs/2212.07126">[Arxiv]</a> &nbsp; <br> 
+<a href="https://arxiv.org/abs/2212.07126">[Arxiv]</a> &nbsp;
+<a href="https://dl.acm.org/doi/10.1145/3801957">[Paper]</a> &nbsp; <br>
  **Sourav Saha**, Debapriyo Majumdar, Mandar Mitra <br>
-ACM Computing Surveys <conference> (ACM CSUR) [Accepted]</conference>
+ACM Computing Surveys <conference> (ACM CSUR) 2026.</conference>
 
 ## Conferences
 
 * <papertitle> One Word is Enough: Minimal Adversarial Perturbations for Neural Text Ranking </papertitle>
-<a href="https://arxiv.org/abs/2601.20283">[Arxiv]</a> &nbsp;<br>
+<a href="https://arxiv.org/abs/2601.20283">[Arxiv]</a>
+<a href="https://link.springer.com/chapter/10.1007/978-3-032-21300-6_31">[Paper]</a>
+<a href="https://github.com/Tanmay-Karmakar/one_word">[Code]</a> &nbsp; <br>
  Tanmay Karmakar, **Sourav Saha**, Debapriyo Majumdar and Surjyanee Halder <br>
-In European Conference on Information Retrieval, <conference>ECIR 2026 (To appear)</conference>.
+In European Conference on Information Retrieval, <conference>ECIR 2026</conference>.
 
 
 * <papertitle> ir_explain: a Python Library of Explainable IR Methods </papertitle>
