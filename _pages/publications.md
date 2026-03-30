@@ -38,8 +38,9 @@ ACM Computing Surveys <conference> (ACM CSUR) 2026.</conference>
 ## Conferences
 
 * <papertitle> One Word is Enough: Minimal Adversarial Perturbations for Neural Text Ranking </papertitle>
-<a href="https://arxiv.org/abs/2601.20283">[Arxiv]</a>
-<a href="https://link.springer.com/chapter/10.1007/978-3-032-21300-6_31">[Paper]</a>
+<a href="https://arxiv.org/abs/2601.20283">[Arxiv]</a> &nbsp;
+<a href="https://link.springer.com/chapter/10.1007/978-3-032-21300-6_31">[Paper]</a> &nbsp;
+<a href="https://u.pcloud.link/publink/show?code=XZsaKt5ZHLAfMt5DGFJjNIJSc7nMbYD6pndk">[Poster]</a> &nbsp;
 <a href="https://github.com/Tanmay-Karmakar/one_word">[Code]</a> &nbsp; <br>
  Tanmay Karmakar, **Sourav Saha**, Debapriyo Majumdar and Surjyanee Halder <br>
 In European Conference on Information Retrieval, <conference>ECIR 2026</conference>.
@@ -47,6 +48,7 @@ In European Conference on Information Retrieval, <conference>ECIR 2026</conferen
 
 * <papertitle> ir_explain: a Python Library of Explainable IR Methods </papertitle>
 <a href="https://dl.acm.org/doi/10.1145/3726302.3730343">[Paper]</a> &nbsp;
+<a href="https://u.pcloud.link/publink/show?code=XZB3Kt5ZkRD7fGPhCfjkthbapaiHX4DvA6EV">[Poster]</a> &nbsp;
 <a href="https://github.com/souravsaha/ir_explain" target="_blank">[Code]</a> &nbsp; <br>
  **Sourav Saha**, Harsh Agarwal, Venktesh V, Avishek Anand, Swastik Mohanty, Debapriyo Majumdar and Mandar Mitra <br>
 In International ACM SIGIR Conference on Research and Development in Information Retrieval, <conference>SIGIR 2025</conference>.
