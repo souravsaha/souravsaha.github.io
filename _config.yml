@@ -116,6 +116,8 @@ author:
   youtube          :
   wikipedia        :
 
+footer:
+  links: []
 
 # Reading Files
 include:
