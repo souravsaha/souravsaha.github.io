@@ -75,3 +75,17 @@
     }
   }
 }
+
+/* Forcefully hide the Sitemap and Feed links from the footer */
+.page__footer-follow .social-icons li {
+    /* Targets the specific links by their URLs */
+    a[href*="/sitemap/"], 
+    a[href*="/feed.xml"] {
+        display: none !important;
+    }
+}
+
+/* Fallback: Hide any list item containing the sitemap icon */
+.fa-sitemap {
+    display: none !important;
+}
