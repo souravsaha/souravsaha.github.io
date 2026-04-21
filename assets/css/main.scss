@@ -57,3 +57,21 @@
 .fa-sitemap, .fa-rss-square {
   display: none !important;
 }
+
+/* TARGET THE SITEMAP AND FEED LINKS DIRECTLY */
+.page__footer-follow {
+  ul.social-icons {
+    li:last-child, 
+    li:nth-last-child(1),
+    li:nth-last-child(2) {
+      /* This hides the last two items in that list (Feed & Sitemap) */
+      display: none !important;
+    }
+    
+    /* Extra security: hide by attribute */
+    a[href*="sitemap"], 
+    a[href*="feed.xml"] {
+      display: none !important;
+    }
+  }
+}
