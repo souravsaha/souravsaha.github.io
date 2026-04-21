@@ -39,3 +39,21 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Hide the Sitemap and Feed links in the footer */
+.page__footer-follow {
+  ul.social-icons {
+    li {
+      // Targets the sitemap link by its specific URL path
+      a[href*="/sitemap/"], 
+      a[href*="/feed.xml"] {
+        display: none !important;
+      }
+    }
+  }
+}
+
+// Fallback: hides any list item in the footer that contains the sitemap icon
+.fa-sitemap, .fa-rss-square {
+  display: none !important;
+}
