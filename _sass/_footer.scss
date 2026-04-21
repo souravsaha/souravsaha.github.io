@@ -90,3 +90,14 @@
     }
   }
 }
+
+/* Hide the Sitemap and Feed links */
+.page__footer-follow ul.social-icons li:has(a[href*="sitemap"]),
+.page__footer-follow ul.social-icons li:has(a[href*="feed.xml"]) {
+    display: none !important;
+}
+
+/* Fallback for older browsers */
+.page__footer-follow a[href*="/sitemap/"] {
+    display: none !important;
+}
