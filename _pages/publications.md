@@ -31,7 +31,7 @@ section {
 
 * <papertitle> Towards Explaining Query Expansion Performance in Information Retrieval </papertitle>
 <a href="http://arxiv.org/abs/2610.09724">[Arxiv]</a> &nbsp; 
-<br> **Sourav Saha**, Aditya Dutta, Soumajit Pramanik, Mandar Mitra <br>
+<br> **Sourav Saha**, Aditya Dutta, Soumajit Pramanik, Mandar Mitra &nbsp; <br>
     <conference> Under review.</conference>
 
 ## Journal(s)
