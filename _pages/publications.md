@@ -27,6 +27,13 @@ section {
  Avishek Anand, Procheta Sen, **Sourav Saha**, Manisha Verma, Mandar Mitra <br>
  In International ACM SIGIR Conference on Research and Development in Information Retrieval, <conference>SIGIR 2023</conference>. 
 
+## Manuscript(s)
+
+* <papertitle> Towards Explaining Query Expansion Performance in Information Retrieval </papertitle>
+<a href="http://arxiv.org/abs/2610.09724">[Arxiv]</a> &nbsp; <br>
+ **Sourav Saha**, Aditya Dutta, Soumajit Pramanik, Mandar Mitra <br>
+<conference> Under review.</conference>
+
 ## Journal(s)
 
 * <papertitle> Explainability of Text Processing and Retrieval Methods: A Survey </papertitle>
