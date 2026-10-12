@@ -15,6 +15,6 @@ author_profile: true
 * Pacesetter Award in Oracle for FY 2017.
 
 
-<div style="margin-top: 4em; padding-top: 0.8em; border-top: 1px solid #ccc; font-size: 0.85em; color: #777;">
+<div style="margin-top: 2em; padding-top: 0.8em; border-top: 1px solid #ccc; font-size: 0.85em; color: #777;">
   <sup>†</sup> Could not participate in the final rounds due to technical/legal problems.
 </div>
